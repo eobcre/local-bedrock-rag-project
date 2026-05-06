@@ -2,8 +2,6 @@
 
 RAG (Retrieval-Augmented Generation) application using Amazon Bedrock Knowledge Bases to retrieve relevant context and generate LLM responses.
 
-<img src="./docs/rag.png" alt="Image" width="600" />
-
 ## 🧠 How It Works
 
 #### ▫️ Indexing / Ingestion phase
