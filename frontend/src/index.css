@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@layer components {
+  .top {
+    @apply col-span-1 border border-blue-400 bg-white rounded-sm outline-none p-2 w-full;
+  }
+
+  .section {
+    @apply border-2 border-blue-500 bg-blue-50 rounded-md p-3;
+  }
+
+  .bottom {
+    @apply border border-blue-400 bg-white rounded-sm p-4 h-80;
+  }
+}
